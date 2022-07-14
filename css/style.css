@@ -98,3 +98,11 @@ body{
         transform: scale(0.9);
     }
 }
+
+#boba_corgi{
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+
+}
